@@ -32,7 +32,7 @@ I'm a **BTech CSE** student at **Jai Narain College of Technology, Bhopal**, pas
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/)  
 
-[![Email](https://img.shields.io/badge/Email-Send Mail-red?style=for-the-badge&logo=gmail)](mailto:vishwas7782@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vishwas7782@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vishwas7782@gmail.com)
 
 ---
 
