@@ -12,7 +12,7 @@ I'm a **BTech CSE** student at **Jai Narain College of Technology, Bhopal**, pas
 ## 🛠 Projects
 - **[Chronomail AI](https://github.com/vishwas7782/ChronoMailAI)**: ChronoMailAI is your intelligent AI email assistant designed to write, summarize, and auto-respond to emails with just one click. Built with Gemini AI, it integrates React.js frontend, Spring Boot backend, and a Chrome Extension for seamless browser integration.
 - **[Finnovate AI](https://github.com/vishwas7782/finnovate-ai)**: An AI-powered financial advisor with real-time transaction monitoring and goal-based financial planning.
-- **[Urban Waste Control System](https://github.com/vishwas7782/urban-waste-control)**: A smart waste management system that allows residents to report garbage, track collection schedules, and communicate directly with municipal employees.
+- **[Urban Waste Control](https://github.com/vishwas7782/urban-waste-control)**: A smart waste management system that allows residents to report garbage, track collection schedules, and communicate directly with municipal employees.
 - **[Banking System](https://github.com/vishwas7782/banking-system)**: Simulated a banking system with basic operations like deposits, withdrawals, and account management.
 
 ## 🚀 Achievements
