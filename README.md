@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vishwasjeet Kumar Gupta!
 
-I'm a **BTech CSE** student at **Jai Narain College of Technology, Bhopal**, passionate about **AI**, **Cybersecurity**, **Web Development**, and **Problem Solving**.
+I'm a **BTech CSE** final year student at **LNCT Group of Colleges, Bhopal**, passionate about **AI**, **Cybersecurity**, **Web Development**, and **Problem Solving**.
 
 ## 🔧 Skills
 - **Languages:** Java, Python, C++, JavaScript
