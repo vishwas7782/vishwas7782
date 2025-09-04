@@ -18,7 +18,7 @@ Specializing in <b>Full-Stack Development</b>, <b>AI</b>, and <b>Cybersecurity</
 <a href="https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:vishwas7782@gmail.com" target="_blank">
+<a href="mailto:vishwas7782@gmail.com">
     <img src="https://img.shields.io/badge/Email-vishwas7782%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
