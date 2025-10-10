@@ -76,7 +76,7 @@ A collection of the tools, languages, and frameworks I work with.
 <h3>🏆 Fin-Minder</h3>
 <p><b>AI-powered multi-channel payment reminder system</b> to reduce late payments. Integrates APIs for SMS, email, and voice notifications. <i>(Hackathon Winner)</i></p>
 <p><b>Tech Stack:</b> OpenAI, Twilio, SendGrid, ElevenLabs</p>
-<p>🔗 <a href="https://github.com/vishwas7782/Fin-Minder">Go to Repo</a></p>
+<p>🔗 <a href="https://github.com/TusharChamlikar/AI-AGENT">Go to Repo</a></p>
 </td>
 <td width="40%">
 <img src="https://github.com/vishwas7782/vk2/blob/main/Project%20Screenshots/finminder_home.png" alt="Fin-Minder Screenshot" />
