@@ -177,6 +177,8 @@ A collection of the tools, languages, and frameworks I work with.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwas7782&show_icons=true&locale=en&layout=compact" alt="Visjwasjeet" />
 
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwas7782&show_icons=true&locale=en" alt="vishwas7782" />
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas7782&layout=compact&theme=dracula&hide_title=true" alt="Top Languages" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwas7782&layout=compact&theme=dracula&hide_title=true&exclude_repo=handsmen-threads-salesforce" alt="Top Languages" />
 </p>
