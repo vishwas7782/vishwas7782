@@ -132,7 +132,7 @@ A collection of the tools, languages, and frameworks I work with.
 <h3>🧵 HandsMen Threads - Salesforce Project</h3>
 <p>A Salesforce-based digital transformation initiative for HandsMen Threads, a forward-thinking fashion brand. Streamlines operations and enhances customer engagement with intelligent automation and personalized experiences.</p>
 <p><b>Tech Stack:</b> Salesforce Lightning App Builder, Record-Triggered Flows, Apex Triggers, Batch Apex, Validation Rules, Scheduled Apex</p>
-<p>🔗 <a href="https://github.com/vishwas7782/HandsMen-Threads">GitHub Repo</a></p>
+<p>🔗 <a href="https://github.com/vishwas7782/handsmen-threads-salesforce">GitHub Repo</a></p>
 </td>
 <td width="40%">
 <img src="https://github.com/vishwas7782/vk2/blob/main/Project%20Screenshots/handsmen_customer.png" alt="HandsMen Threads Screenshot" />
@@ -175,9 +175,9 @@ A collection of the tools, languages, and frameworks I work with.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vishwas7782&show_icons=true&theme=dracula&hide_title=true&count_private=true&include_all_commits=true" alt="Vishwasjeet's GitHub Stats" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwas7782&show_icons=true&locale=en&layout=compact" alt="Visjwasjeet" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwas7782&show_icons=true&locale=en&layout=compact" alt="Visjwasjeet" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwas7782&show_icons=true&locale=en" alt="vishwas7782" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwas7782&show_icons=true&locale=en" alt="vishwas7782" /> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas7782&layout=compact&theme=dracula&hide_title=true" alt="Top Languages" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwas7782&layout=compact&theme=dracula&hide_title=true&exclude_repo=handsmen-threads-salesforce" alt="Top Languages" />
